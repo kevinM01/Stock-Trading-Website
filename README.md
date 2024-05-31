@@ -35,6 +35,10 @@ Watchlist and Portfolio: Users can add stocks to their watchlist and manage thei
 
 Responsive Design: The application is built using Bootstrap to ensure a seamless experience across various devices and screen sizes.
 
+# For source code Contact
+@Author: [Kevin Masalia @kevinM01](https://github.com/kevinM01)
+
+
 ## Implentation
 <img width="1440" alt="Screenshot 2024-05-31 at 3 22 06 PM" src="https://github.com/kevinM01/Stock-Trading-Website/assets/78092182/79216b54-f3b2-4fdc-9322-fe368fd69d4f">
 
